@@ -11,10 +11,5 @@ LLM-Lab is a collection of experiments and projects focused on mastering Large L
 - **Evaluation/**: Tools for benchmarking and optimizing LLM performance.
 - **Tools/**: Utilities for LLM experimentation.
 
-## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ton-nom-utilisateur/LLM-Lab.git
-   cd LLM-Lab
 
